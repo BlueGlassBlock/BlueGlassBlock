@@ -4,7 +4,11 @@ Hello! :wave: I'm BlueGlassBlock, an ordinary senior high school student.
 
 I use [`Python`](https://github.com/python/cpython) as my main coding language, and I hope to learn `Go`, `Kotlin` and `JavaScript` in the future :)
 
-Now collaborating on [`GraiaProject`](https://github.com/GraiaProject).
+Currently I use [`VSCode`](https://github.com/microsoft/vscode) as my text edit tool / development platform.
+
+Now I'm collaborating on [`GraiaProject`](https://github.com/GraiaProject), mainly the maintence of [`Ariadne`](https://github.com/GraiaProject/Ariadne).
+
+I'm also the development leader of projects at [`GraiaCommunity`](https://github.com/GraiaCommunity).
 
 ## Contact
 
