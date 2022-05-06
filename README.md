@@ -2,9 +2,9 @@
 
 Hello! :wave: I'm BlueGlassBlock, an ordinary senior high school student.
 
-I use [`Python`](https://github.com/python/cpython) as my main coding language, and I hope to learn `Go`, `Kotlin` and `JavaScript` in the future :)
+I use [`Python`](https://github.com/python/cpython) as my main coding language, and I hope to learn `Rust`, `Kotlin` and `Go` in the future :)
 
-Currently I use [`VSCode`](https://github.com/microsoft/vscode) as my text edit tool / development platform.
+Currently I use [`VSCode`](https://github.com/microsoft/vscode) as my major text editing tool / development platform.
 
 Now I'm collaborating on [`GraiaProject`](https://github.com/GraiaProject), mainly the maintence of [`Ariadne`](https://github.com/GraiaProject/Ariadne).
 
