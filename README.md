@@ -8,7 +8,7 @@
     <a href="https://www.luogu.com.cn/user/331028">luogu</a> |
     <a href="https://osu.ppy.sh/users/20888456">osu!</a> |
     <a href="https://steamcommunity.com/id/BlueGlassBlock/">Steam</a> |
-    <a href="https://t.me/BlueGlassBlock">telegram</a> |
+    <a href="https://t.me/BlueGlassBlock">telegram</a>
   </samp>
 </p>
 
