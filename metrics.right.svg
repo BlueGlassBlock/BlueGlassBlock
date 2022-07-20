@@ -19,6 +19,20 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      repository
+                                        <span class="repo">GraiaCommunity/Governance</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -76,22 +90,6 @@ However it tried to apply
                                     <div class="commit">
                                         <div class="sha">#30ab1b5</div>
                                         <div class="message"><img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAKk0lEQVR4nO2ae1ST5x3Hn7q222nXnnV/1K1rbSAhIeQGCZeEcAkhb5L3GqxFq6hbt/bM01PXna5VrO6U3td1Wy+257RrJ4SLchGrqFyEggiEkBCuQiIgFy+gth6tK2q18Nt5KVdNIG6n6wv0c87vn4c8CZ/ned7n+T7nvAj9wA/4TU4qed+OzVjevjeZe9BiJH0T9ufMLdiF9zbiP0YLnU5r6DOdmfLHprdZN2GZmalYFVoMdGeHVvXmKE5Xpelun2jbscn4avYW48m0aW0Llg6r4rcDuxTgyQz7w0Rb5mbDsqxU7Er688aNaKEDaWhJV5aiuS8ndLhjh1I/0W7dYnwja4txOP1P5gh/v8uO4w820vRdaL7RmRP2cE+24mTfTsVVd7oitfEj1R1paWlLrJux0sxUbJBdEbP1b1tBB7sYyuFkSHAy1OVmmvwjmm94doU90JWlqD+RqwB2T3BnhL3b9GFkuHWzoSsjFatPTk7+kbd+TRbqUSdDXHRbKDibRMMJCwWNDDnaxlApaL4BgG7rzJCv785S1A7sUoz07VRca/1YlZO1Bbu6IxV7YsZnEbqtmSZfdVmokb4kGr6YVr0WChpo4lKTxRKC5is9WUqBJyP005O5Cmj5WPV57rbE6om/tZHkfS6aKmu2UDC4nJkhP1FuhgInRR7zMPM8TLnTw549kSsfcf0z/Ouid9Z9Uvr22uZDqSu/alpjGVvyX/iocxYKWmgCnBRRhOY7NdvjO9ijsu594mzF5pXXK95IgbK/r4OBFMtN4p9bqMkasrCrAAcnib+A5iv7316rLH5vPfRmh31z9HUNDLCSKxiofmkNVKet9inP1jmGhAGaADuJX2/EcSOajxx4LWVr8fZ1ox2vaKH3ZS2cH3/mO3+/AkreWTerPFtnaQKOUTjYSfPnHfTsxynnaGYI7MiTj1wq3r4eTq1JmpTvs1BQvfFRKHtrLbTSJPQxpE95ts5QOLSSZrDjxuZifJ5csFqSqG1OC/VN9yMUlP8tBWpeXA3nltPgYUhw0OSFsm2rakteS6lopKg3Gij8Ss/4IHiTZ+s0aQYnbgKbEfsEcRkPw9zTZKGKXAwFp5LosVnvfnw5FL+9DsrfWgvlW1eNVj/z6PrpfVpJknHQBAzS3uWHSDMMEmbox41gMxuh3mR4EnGRlhW0xMVQXW0MBWeXM5NLnq1TayxQ9+xKKHtx9YX976/X3Ni3gcT7+ulv5c9Q38oPkVPyg4QJTuMm6MaNUGvGLtuNRhXiEi0U9atGhjznsdDwxQ3yE3XcQoGLIRze+tsJvO/42Iz7lj+NG+GU2QhtJgPUYoZ+m8n0c8QVminieXbmz/uQZ2vQQoGDJkaaGCJ8el+72UzYWVk/5E+ZMThhwsBhNEANZqhgIzXiAk1J9MZWCzU2+77SHbvJudl0RxMXGmlzqosgzE6KSKsnzF+6Sdwv+ZMmtgzQZzRAHZYINQb9XxAX6EhO/qmToU53sYMwS7pjq4cmoIkiwEGaoZnE4fgtyp8wspUIx7BEOIIljtiMiUmICzgpKtJBk1f6pw3CbAFn5k5/a/IDWCL0G/TQbtDD4cSEizajMRhxgSaG2sAegUOW70aeFZ+QZ6svMQEceh1UJug8ZXL53YgLuBgqu4mV9Eve7FP+W3FsfNa9y/fqddCti4fahHioio/bg7hAR7LkTieNuzpo0k/5CXHT+Kz7L388IR56dHHg0cVBZXwsVMbEPIu4QNuKFYENFH6+myZmTXc3L/lbl++Oj4WuuBhojYuF8rjY61UxagPiAo2kiWygiG/6/Qw4U8+7d/m+RN/yx2K14InRgj1GC2UxMUNHYmN/ibiAgzK/4iBwOPU/y7Pis8lHg1sbDZ3RGjgcrYFSrcb+kUp1x/ftj9ik1kCaD7pwMwz6fcx5k2fF55bv0KihXR0FhzRqKFFHfYC4QHcKfq8NN/UcvYUzfrr8iVUrodeQCD26mfL9j/8aepIYcGs1k/JH1VHQHhUJrsgIKFZHjZaoI36DuIDdbJbXmrGvjvklP3OzO7PtBRi22eDMyy9Bj0EPx9kLV0Y6XHG7oYsioDNaPUO+LTICWiPCwRYRDgeiIoeLw8PDEBdoIExrbGbjaO8c6e7GnX4gZTVcPeaBqx4PDDsa4HJbG1zxeOByezt0ajVe5VvCVdCsUkJVhAqKIiL6DsTE3Ie4QK0R+9BuwqD/Vo65BB1cbm0dk54qN3xZ+Rl0aKJ8yjcpw8ClDIMSlQr2qVSHOHFzrNLpbq8zYTVOVtzPM74HN8Ow0zFDnq2vXI3Q/dhK3/JhodAYqgC7Qg5FyjDYq1C8hLhALYY9UIsZzrT5I280wJelpTfJs8//ZbcbhltaoOeJ3/mUdyrk4JDL4IhcBoUKxUiRTGZBXKDeoNPVYIav3bPId2OJcPHAAZ/yE/XvxkbwrEz2Kt8gl4FdKoV6SQgckkogXyY7ny8SBSAuUGvQP1et10O3j3TXbTbBwIYNcHLzJhh88y9wsbh4UvpiRQX0Pv0UuBkaWiIj5pSvCxFDrTgYiiQSyJVIWtN5vJ8gLlCtT8ir1eugJ0E3Z8DxUCQMt7ePDUDvxqdnXfYNMlZeMiUfHAw1IhEcFomgIETMDkIm4gL7Vaq7Dut1R+1zyE/s9EPb34NLdXXQpo70Ku8Yk5d6la8WBsHhIAFUCASQExwMOSLR5Gs93ys2k0nwWXzcBdcM+ZvTHbvTH03UQ/+m573Ly6fkbay8eEJeOClfxefDZ4GBcIDPhyyR8Os8kUiLuEB1QhxTHhsz0jop7z3dseIt4coZ8s4xeZlX+SMT8oIp+YoAHpQ//DDsDgwEa1DQ6XQe7xeIC1RoNX+tiNFC+yzyrHizKmxKfvyYY+VrZFI4HBICR8RiqAkWzZCvvEG+bNkyKHnoIdjJDgKfX5ePkNdXeP6vAEJLyrTqyiqtZuxG5yvgsNUYOlO+SiaF3QrF9Xy57FqeTAq5UgnkhYRAgVgMBcHBsFsYBIUCAezh8+HTgADYy+PBvmXLxsrKPg4CwT8QF6jS6X5WqlH31qijZk13E/J2GXvMSaBEKoUCubSQ/Y7MpUvv3i+RLCuUSLT5YuGqXLHwqVyRaGu2UPhBVlDQHiufX5khELisfP7JDIHgWjqfDxl8/qg1IGAt4gIV0dERxRr1lfqICL/kbSFi2CeVQIFU+vp/83uZfP79WQEBiuzAQL/fafzOKVWrnzwYFQmOOQKObTzg7JZIoCAkZP69WjcbxVFROw6Gh0PjHOmuWiSCPKkUdkqlcrSQyJdI7iwKVzrKlMpZ0125SAS7JCHX2c+jhUahXP7gHqXyXIVC7jPdlYiEsDM4+DhaqBQplfo9YaHX2KPOW7rbLxSy0bYULWT2hsq3FspkUC0W35TuCtkBEIneRQudAqm0cI9UAlU3pLtckRCyg4I2oIVO5tKld+dJJJ17RaJx+QAo5/EgSygEzlxqvmvyJZKQbHHwpf0CPlTweFDC47EXmtFigeBetFjYJRSuyhaJRg4GBEAROwACwRBabGQHBb2bHRQE+TweZPL5NWixkYbQEqtAUM1eZKwCwb/QYiSTz7+fvdFlBQQ8hxYreSKR1srnJ3zf/8cPoAXOfwAL8vk9sJk4qgAAAABJRU5ErkJggg==" height="16" width="16" alt="" /> 0.1.1 fix publish</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">master</span>
-                                        in
-                                        <span class="repo">BlueGlassBlock/affection</span>
                                     </div>
                                 </div>
                             </section>
