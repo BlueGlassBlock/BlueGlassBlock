@@ -23,6 +23,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">BlueGlassBlock/affection</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#542ee4c</div>
+                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> 0.2.0 new design</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">GraiaCommunity/Docs</span>
                                     </div>
                                 </div>
@@ -65,26 +85,6 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by MingxuanGame in <span class="repo">GraiaCommunity/Docs</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">GraiaProject/Ariadne</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#614c683</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> update templates</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -222,7 +222,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.7583846680355926 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.9705681040383283 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
