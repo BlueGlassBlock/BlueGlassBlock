@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1275" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1292" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}.gauge text,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}.gauge text,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">BlueGlassBlock/affection</span>
+                                        <span class="repo">GraiaCommunity/Governance</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#542ee4c</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> 0.2.0 new design</div>
+                                        <div class="sha">#1e41374</div>
+                                        <div class="message">chore: move binary license</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,16 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">GraiaCommunity/Docs</span>
+                                        <span class="repo">GraiaCommunity/Governance</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e9a49d5</div>
-                                        <div class="message">add Commander docs (#35)</div>
+                                        <div class="sha">#06af165</div>
+                                        <div class="message">feat: add icons
+
+co-authored-by: Redlnn &lt;w731347477@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -59,16 +61,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Merged
-                                        <span class="issue">#35 Commander docs</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">GraiaProject/Avilla</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by MingxuanGame in <span class="repo">GraiaCommunity/Docs</span></div>
-                                    <div>1 file changed <span class="code">++245 --3</span></div>
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e8eb637</div>
+                                        <div class="message">feat: add abstract call for AbstractAccount</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -76,15 +81,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Reviewed
-                                        <span class="issue">#35 Commander docs</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">GraiaProject/Avilla</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by MingxuanGame in <span class="repo">GraiaCommunity/Docs</span></div>
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f92d109</div>
+                                        <div class="message">refactor connection account</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -258,7 +267,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.8894472361809 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.66834170854271 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -277,7 +286,7 @@
                                     <span class="prefix"></span>
                                     Stargazer
                                 </div>
-                                <div class="text">Starred 101 repositories</div>
+                                <div class="text">Starred 102 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
