@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1342" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1308" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,42 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v0.2.2</span>
+                                        in
+                                        <span class="repo">GraiaProject/creart</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">GraiaProject/creart</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e0fa76f</div>
+                                        <div class="message">fix: use cross-version importlib-metadata</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -63,46 +99,6 @@
                                     <div class="commit">
                                         <div class="sha">#fcfc10b</div>
                                         <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> 0.9.1</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">GraiaProject/Ariadne</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2fc253a</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> update changelog</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">GraiaProject/Ariadne</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1375e6e</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> update changelog</div>
                                     </div>
                                 </div>
                             </section>
@@ -241,7 +237,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.9096509240246518 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.1218343600273872 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
