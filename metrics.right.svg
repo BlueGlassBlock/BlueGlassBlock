@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#42d3693</div>
-                                        <div class="message">add more tests</div>
+                                        <div class="sha">#f8312b4</div>
+                                        <div class="message">add codecov badge</div>
                                     </div>
                                 </div>
                             </section>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8a2788f</div>
-                                        <div class="message">more tests</div>
+                                        <div class="sha">#860b046</div>
+                                        <div class="message">+ typing_extensions to deps for 3.10 compatibility</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ceb02a0</div>
-                                        <div class="message">update implementations</div>
+                                        <div class="sha">#e4b8374</div>
+                                        <div class="message">Python 3.8 Compatibility</div>
                                     </div>
                                 </div>
                             </section>
@@ -83,30 +83,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">BlueGlassBlock/Blog</span>
+                                        <span class="repo">GraiaProject/kayaku</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ef85204</div>
-                                        <div class="message">Bump hexo-renderer-marked from 5.0.0 to 6.0.0 (#4)
-
-Bumps [hexo-renderer-marked](https://github.com/hexojs/hexo-renderer-marked) from 5.0.0 to 6.0.0.
-- [Release notes](https://github.com/hexojs/hexo-renderer-marked/releases)
-- [Commits](https://github.com/hexojs/hexo-renderer-marked/compare/5.0.0...v6.0.0)
-
----
-updated-dependencies:
-- dependency-name: hexo-renderer-marked
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                        <div class="sha">#ee2f37c</div>
+                                        <div class="message">formatted and tested most of the parts</div>
                                     </div>
                                 </div>
                             </section>
