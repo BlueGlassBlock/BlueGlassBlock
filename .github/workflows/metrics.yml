@@ -28,6 +28,7 @@ jobs:
           user: BlueGlassBlock
           template: classic
           base: header, community, repositories, metadata
+          repositories_skipped: BlueGlassBlock/BlueGlassBlock
           config_timezone: Asia/Shanghai
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
