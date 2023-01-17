@@ -181,19 +181,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 11.8mb of code in 4940 edited files across 1095 commits</small>
+                <small>estimation from 9.98mb of code in 3945 edited files across 833 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="354.9822852081488" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="354.9822852081488" y="0" width="82.2621040222998" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="437.2443892304486" y="0" width="19.935173305371748" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="457.1795625358203" y="0" width="1.6909892278434846" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="458.8705517636638" y="0" width="0.4094998827697598" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.28005164643355" y="0" width="0.38347314124941384" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.66352478768295" y="0" width="0.33647521231699057" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="332.8543240614897" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="332.8543240614897" y="0" width="99.91542765494918" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="432.7697517164389" y="0" width="24.213231473410833" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="456.98298318984973" y="0" width="2.0538729694306523" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.03685615928043" y="0" width="0.49737794088637316" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.53423410016677" y="0" width="0.4657658998332383" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -231,12 +230,6 @@
                             <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Kotlin
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Jinja
                     </div>
                 </div>
                 <div class="row footnote warning">
@@ -2260,7 +2253,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jan 2023, 20:25:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 18 Jan 2023, 02:14:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
