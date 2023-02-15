@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 191 repositories
+                            Starred 192 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -181,18 +181,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 11.1mb of code in 4756 edited files across 1038 commits</small>
+                <small>estimation from 12mb of code in 5059 edited files across 1114 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="349.81714786936914" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="349.81714786936914" y="0" width="84.81547123170965" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="434.6326191010788" y="0" width="22.806317923235596" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="457.4389370243144" y="0" width="1.7434765365156573" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.18241356083" y="0" width="0.42221051770122275" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.60462407853123" y="0" width="0.3953759214687262" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="354.3038922636324" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="354.3038922636324" y="0" width="81.10633973749775" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="435.4102320011301" y="0" width="21.808957054426834" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="457.21918905555697" y="0" width="1.6672312048904527" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="458.88642026044744" y="0" width="0.4037465003981199" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.2901667608455" y="0" width="0.37808542881360285" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.66825218965914" y="0" width="0.331747810340842" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -230,6 +231,12 @@
                             <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Kotlin
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Jinja
                     </div>
                 </div>
                 <div class="row footnote warning">
@@ -2264,7 +2271,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Feb 2023, 14:16:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 15 Feb 2023, 20:23:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
