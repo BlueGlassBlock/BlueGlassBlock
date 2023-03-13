@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5cb2ebd</div>
-                                        <div class="message">feat: basic message recall
+                                        <div class="sha">#9c9481a</div>
+                                        <div class="message">feat: quit group &amp; kick member
 See #17</div>
                                     </div>
                                 </div>
@@ -50,8 +50,9 @@ See #17</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#87fc16a</div>
-                                        <div class="message">fix: device converter</div>
+                                        <div class="sha">#b92578c</div>
+                                        <div class="message">feat: mute
+See #17</div>
                                     </div>
                                 </div>
                             </section>
@@ -70,22 +71,8 @@ See #17</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#24b86f2</div>
-                                        <div class="message">chore(deps): bump serde from 1.0.154 to 1.0.155 (#19)
-
-Bumps [serde](https://github.com/serde-rs/serde) from 1.0.154 to 1.0.155.
-- [Release notes](https://github.com/serde-rs/serde/releases)
-- [Commits](https://github.com/serde-rs/serde/compare/v1.0.154...v1.0.155)
-
----
-updated-dependencies:
-- dependency-name: serde
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                        <div class="sha">#5ecfb77</div>
+                                        <div class="message">feat: nudge</div>
                                     </div>
                                 </div>
                             </section>
@@ -104,23 +91,9 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6facf27</div>
-                                        <div class="message">chore(deps): bump futures-util from 0.3.26 to 0.3.27 (#20)
-
-Bumps [futures-util](https://github.com/rust-lang/futures-rs) from 0.3.26 to 0.3.27.
-- [Release notes](https://github.com/rust-lang/futures-rs/releases)
-- [Changelog](https://github.com/rust-lang/futures-rs/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/rust-lang/futures-rs/compare/0.3.26...0.3.27)
-
----
-updated-dependencies:
-- dependency-name: futures-util
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                        <div class="sha">#5cb2ebd</div>
+                                        <div class="message">feat: basic message recall
+See #17</div>
                                     </div>
                                 </div>
                             </section>
@@ -259,7 +232,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.73 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="57.38875 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -282,9 +255,9 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 15.8k out of 384m repositories</span>
+                                    <span class="gh">ranked 15.7k out of 384m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 2464 stars</div>
+                                <div class="text">Maintaining a repository with 2481 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
