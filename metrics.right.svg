@@ -210,7 +210,7 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 762k out of 112m users</span>
+                                    <span class="gh">ranked 763k out of 112m users</span>
                                 </div>
                                 <div class="text">Published 42 public repositories</div>
                             </div>
@@ -225,7 +225,7 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="109.54625 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="110.4375 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -248,9 +248,9 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 9.73k out of 391m repositories</span>
+                                    <span class="gh">ranked 9.65k out of 391m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 3827 stars</div>
+                                <div class="text">Maintaining a repository with 3850 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -662,7 +662,7 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.66m out of 391m repositories</span>
+                                    <span class="gh">ranked 4.54m out of 391m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
