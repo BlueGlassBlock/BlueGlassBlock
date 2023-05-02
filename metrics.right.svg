@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1445" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1978" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}.gauge text,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}.gauge text,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,70 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">GraiaProject/Ariadne</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#224572d</div>
-                                        <div class="message">chore: gitignore new pdm</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">GraiaProject/Ariadne</span>
+                                        <span class="repo">BlueGlassBlock/Ichika</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d47ce12</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> 0.11.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8dfb8d1</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> update changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b409a70</div>
-                                        <div class="message">doc: sync changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7fcab08</div>
-                                        <div class="message">fix: web server bugs &amp; send message
-fix #229
-fix #230</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e47d99</div>
-                                        <div class="message">[pre-commit.ci] ruff: v0.0.261 → v0.0.262 (#228)
-
-updates:
-- [github.com/charliermarsh/ruff-pre-commit: v0.0.261 → v0.0.262](https://github.com/charliermarsh/ruff-pre-commit/compare/v0.0.261...v0.0.262)
-
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f03e70</div>
-                                        <div class="message">[pre-commit.ci] ruff v0.0.260 → v0.0.261 (#225)
-
-updates:
-- [github.com/charliermarsh/ruff-pre-commit: v0.0.260 → v0.0.261](https://github.com/charliermarsh/ruff-pre-commit/compare/v0.0.260...v0.0.261)
-
-Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f894f5</div>
-                                        <div class="message">chore: fix line length</div>
+                                        <div class="sha">#466a469</div>
+                                        <div class="message">chore(ci): fix release pdm env</div>
                                     </div>
                                 </div>
                             </section>
@@ -99,14 +43,16 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">GraiaProject/Ariadne</span>
+                                        <span class="repo">BlueGlassBlock/Ichika</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d47ce12</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> 0.11.4</div>
+                                        <div class="sha">#d3f49e5</div>
+                                        <div class="message">chore(deps,security): drop chrono
+This removes dependency on time^0.1
+address CVE-2020-26235/GHSA-wcg3-cvx6-7396</div>
                                     </div>
                                 </div>
                             </section>
@@ -118,15 +64,187 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">GraiaProject/Ariadne</span>
+                                        Pushed 196 commits in
+                                        <span class="repo">BlueGlassBlock/Ichika</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8dfb8d1</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> update changelog</div>
+                                        <div class="sha">#27fc688</div>
+                                        <div class="message">feat: support MarketFace</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3738b49</div>
+                                        <div class="message">chore: black + isort</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7869e05</div>
+                                        <div class="message">feat: support Face and AtAll</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7a5e43</div>
+                                        <div class="message">chore: remove check and clippy for stable</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8bdbfdd</div>
+                                        <div class="message">chore: fix pre-commit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81e4d34</div>
+                                        <div class="message">chore: add badges</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ccd1e60</div>
+                                        <div class="message">chore: auto lint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10b2c63</div>
+                                        <div class="message">ci: separate sdist, more platforms</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5446ffc</div>
+                                        <div class="message">feat: basic message deserialize</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28a5992</div>
+                                        <div class="message">feat: convert_message_chain</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd161a5</div>
+                                        <div class="message">chore(ci): fix release CI</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ecaa229</div>
+                                        <div class="message">chore: 0.2 metadata update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5789ca4</div>
+                                        <div class="message">chore(proj): update metadata</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d5ea6c3</div>
+                                        <div class="message">chore(ci): fix CI (4)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19a0bec</div>
+                                        <div class="message">chore(ci): fix CI</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d29be80</div>
+                                        <div class="message">chore(ci): fix CI (2)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#059b4a1</div>
+                                        <div class="message">chore(ci): fix CI</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2826ed8</div>
+                                        <div class="message">chore(ci): fix CI typo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21d28c2</div>
+                                        <div class="message">chore(ci): run CI with nightly</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4db5320</div>
+                                        <div class="message">chore(init): v0.0.1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 194 commits in
+                                        <span class="repo">BlueGlassBlock/Ichika</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e8a8e07</div>
+                                        <div class="message">feat: add `plumbing` (will replace `client`)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a74908</div>
+                                        <div class="message">feat: support MarketFace</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d0277a0</div>
+                                        <div class="message">chore: black + isort</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc3b2b1</div>
+                                        <div class="message">feat: support Face and AtAll</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2f1dfe</div>
+                                        <div class="message">chore: remove check and clippy for stable</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c56c86b</div>
+                                        <div class="message">chore: fix pre-commit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77ecf7e</div>
+                                        <div class="message">chore: add badges</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95c1bee</div>
+                                        <div class="message">chore: auto lint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3c8842</div>
+                                        <div class="message">ci: separate sdist, more platforms</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d8e9a9</div>
+                                        <div class="message">feat: basic message deserialize</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d376dc3</div>
+                                        <div class="message">feat: convert_message_chain</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63f84bc</div>
+                                        <div class="message">chore(ci): fix release CI</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cea363</div>
+                                        <div class="message">chore: 0.2 metadata update</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0823868</div>
+                                        <div class="message">chore(proj): update metadata</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8e0fe7</div>
+                                        <div class="message">chore(ci): fix CI (4)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#253ff7b</div>
+                                        <div class="message">chore(ci): fix CI</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4e8606c</div>
+                                        <div class="message">chore(ci): fix CI (2)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b101ee</div>
+                                        <div class="message">chore(ci): fix CI</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4611963</div>
+                                        <div class="message">chore(ci): fix CI typo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89ab41f</div>
+                                        <div class="message">chore(ci): run CI with nightly</div>
                                     </div>
                                 </div>
                             </section>
@@ -225,7 +343,7 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.2319999999999998 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.294 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -250,7 +368,7 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
                                     maintainer
                                     <span class="gh">ranked 6.70k out of 398m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 5288 stars</div>
+                                <div class="text">Maintaining a repository with 5296 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -303,7 +421,7 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.016666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.533333333333335 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -322,7 +440,7 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
                                     <span class="prefix">Great</span>
                                     stargazer
                                 </div>
-                                <div class="text">Starred 231 repositories</div>
+                                <div class="text">Starred 232 repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -479,6 +597,41 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="38.165829145728644 155"/>
+                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+                                        <g stroke-width="2" fill="none" fill-rule="evenodd">
+                                            <g stroke="#79B8FF">
+                                                <path d="M11 40a2 2 0 100-4 2 2 0 000 4z"/>
+                                                <path d="M11 34v1m0 5v3m0 3v3" stroke-linecap="round"/>
+                                            </g>
+                                            <g stroke="#79B8FF" stroke-linecap="round" stroke-linejoin="round">
+                                                <path d="M47.01 41.009h-4M45.016 39v4"/>
+                                            </g>
+                                            <path d="M27.982 5c2.79 1.873 4.46 5.876 5.008 12.01l2.059.659a1.606 1.606 0 011.606-1.665h.84a2.513 2.513 0 012.511 2.508l.004 1.496 3.197 1.588a1.951 1.951 0 011.684-.952l.509.002c.898.003 1.625.73 1.629 1.629l.008 2.115L51 27.606v1.945l-4.815-1.211c-.474.894-.87 1.48-1.192 1.757-.345-.328-.814-1.158-1.406-2.49L38.744 26.5c-.402 1.153-.845 1.828-1.328 2.026-.451-.444-1.04-1.55-1.409-2.821-1.481-.286-2.486-.56-2.994-.688-.27 2.397-1.036 6.884-2.009 10.982l5.006 4.438-6.555-1.08-1.454 3.654-1.45-3.658-6.56 1.082 4.996-4.417c-.899-4.02-1.576-7.684-2.03-10.992a37.29 37.29 0 01-2.967.679c-.38 1.252-.845 2.191-1.396 2.817-.63-.184-1.142-1.474-1.338-2.023-.705.15-2.323.519-4.853 1.107-.601 1.388-1.07 2.218-1.41 2.49a7.032 7.032 0 01-1.173-1.758L5 29.55v-1.945l3.99-3.265v-2.102a1.604 1.604 0 011.625-1.604l.528.007c.68.008 1.307.37 1.654.956l3.184-1.614.003-1.467a2.503 2.503 0 012.511-2.497l.863.003a1.6 1.6 0 011.594 1.646 62.42 62.42 0 012.024-.667c.572-6.097 2.24-10.098 5.006-12.002z" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path stroke="#79B8FF" stroke-linecap="round" d="M45.016 36.032v-2M45.016 49.032v-3M38.978 36.089v-3.153M17.016 36.089v-3.153M51.031 51.165v-2.193m0-2.972V35.013M4.974 51.165v-2.193m0-2.972V35.013"/>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <span class="prefix"></span>
+                                    Deployer
+                                </div>
+                                <div class="text">Repositories have been deployed 50 times</div>
+                            </div>
+                        </div>
+                        <div class="achievement c largeable-width-half">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+                                    <defs>
+                                        <mask id="mask">
+                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+                                        </mask>
+                                    </defs>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
                                         <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.934673366834172 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
@@ -519,41 +672,6 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
                                     <span class="gh">ranked 247k out of 114m users</span>
                                 </div>
                                 <div class="text">Followed by 42 users</div>
-                            </div>
-                        </div>
-                        <div class="achievement c largeable-width-half">
-                            <div class="icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
-                                    <defs>
-                                        <mask id="mask">
-                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
-                                        </mask>
-                                    </defs>
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
-                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.819095477386934 155"/>
-                                    </svg>
-                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
-                                        <g stroke-width="2" fill="none" fill-rule="evenodd">
-                                            <g stroke="#79B8FF">
-                                                <path d="M11 40a2 2 0 100-4 2 2 0 000 4z"/>
-                                                <path d="M11 34v1m0 5v3m0 3v3" stroke-linecap="round"/>
-                                            </g>
-                                            <g stroke="#79B8FF" stroke-linecap="round" stroke-linejoin="round">
-                                                <path d="M47.01 41.009h-4M45.016 39v4"/>
-                                            </g>
-                                            <path d="M27.982 5c2.79 1.873 4.46 5.876 5.008 12.01l2.059.659a1.606 1.606 0 011.606-1.665h.84a2.513 2.513 0 012.511 2.508l.004 1.496 3.197 1.588a1.951 1.951 0 011.684-.952l.509.002c.898.003 1.625.73 1.629 1.629l.008 2.115L51 27.606v1.945l-4.815-1.211c-.474.894-.87 1.48-1.192 1.757-.345-.328-.814-1.158-1.406-2.49L38.744 26.5c-.402 1.153-.845 1.828-1.328 2.026-.451-.444-1.04-1.55-1.409-2.821-1.481-.286-2.486-.56-2.994-.688-.27 2.397-1.036 6.884-2.009 10.982l5.006 4.438-6.555-1.08-1.454 3.654-1.45-3.658-6.56 1.082 4.996-4.417c-.899-4.02-1.576-7.684-2.03-10.992a37.29 37.29 0 01-2.967.679c-.38 1.252-.845 2.191-1.396 2.817-.63-.184-1.142-1.474-1.338-2.023-.705.15-2.323.519-4.853 1.107-.601 1.388-1.07 2.218-1.41 2.49a7.032 7.032 0 01-1.173-1.758L5 29.55v-1.945l3.99-3.265v-2.102a1.604 1.604 0 011.625-1.604l.528.007c.68.008 1.307.37 1.654.956l3.184-1.614.003-1.467a2.503 2.503 0 012.511-2.497l.863.003a1.6 1.6 0 011.594 1.646 62.42 62.42 0 012.024-.667c.572-6.097 2.24-10.098 5.006-12.002z" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path stroke="#79B8FF" stroke-linecap="round" d="M45.016 36.032v-2M45.016 49.032v-3M38.978 36.089v-3.153M17.016 36.089v-3.153M51.031 51.165v-2.193m0-2.972V35.013M4.974 51.165v-2.193m0-2.972V35.013"/>
-                                        </g>
-                                    </svg>
-                                </svg>
-                            </div>
-                            <div class="info">
-                                <div class="title">
-                                    <span class="prefix"></span>
-                                    Deployer
-                                </div>
-                                <div class="text">Repositories have been deployed 38 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -702,7 +820,7 @@ Co-authored-by: pre-commit-ci[bot] &lt;66853113+pre-commit-ci[bot]@users.noreply
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.69m out of 398m repositories</span>
+                                    <span class="gh">ranked 4.64m out of 398m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
