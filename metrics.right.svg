@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1318" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1328" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}.gauge text,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}.gauge text,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,14 +19,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">inspect_modules</span>
-                                        in
-                                        <span class="repo">BlueGlassBlock/mkdocstrings-handler-python</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">BlueGlassBlock/ricq</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5182cb7</div>
+                                        <div class="message">feat: add derivations for MusicShare, MusicVersion, and LinkShare (#116)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f127e82</div>
+                                        <div class="message">fix: doc test (#115)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c7f3ce7</div>
+                                        <div class="message">feat: add conversion implementations from String and &amp;str to RQElem (#114)</div>
                                     </div>
                                 </div>
                             </section>
@@ -35,19 +47,32 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#69 feat: allow modifying GriffeLoader.allow_inspection</span>
+                                        Created new
+                      branch
+                                        <span class="code">login-proto</span>
+                                        in
+                                        <span class="repo">BlueGlassBlock/ricq</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#565 Internationalization Support</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by BlueGlassBlock in <span class="repo">mkdocstrings/python</span></div>
-                                    <div class="comment">
-                                        TBH that was a fast PR response
-                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                    </div>
+                                    <div>opened  in <span class="repo">mkdocstrings/mkdocstrings</span></div>
                                 </div>
                             </section>
                         </div>
@@ -59,34 +84,29 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">BlueGlassBlock/mkdocstrings-handler-python</span>
+                                        <span class="repo">BlueGlassBlock/Ichika</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">inspect_modules</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#310653f</div>
-                                        <div class="message">fix: "allow_inspection" key
+                                        <div class="sha">#b17a03b</div>
+                                        <div class="message">chore(deps): bump serde from 1.0.160 to 1.0.162 (#54)
 
-Co-authored-by: Timothée Mazzucotelli &lt;pawamoy@pm.me&gt;</div>
+Bumps [serde](https://github.com/serde-rs/serde) from 1.0.160 to 1.0.162.
+- [Release notes](https://github.com/serde-rs/serde/releases)
+- [Commits](https://github.com/serde-rs/serde/compare/v1.0.160...1.0.162)
+
+---
+updated-dependencies:
+- dependency-name: serde
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#69 feat: allow modifying GriffeLoader.allow_inspection</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">mkdocstrings/python</span></div>
-                                    <div>1 file changed <span class="code">++3 --0</span></div>
                                 </div>
                             </section>
                         </div>
@@ -184,7 +204,7 @@ Co-authored-by: Timothée Mazzucotelli &lt;pawamoy@pm.me&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.04575 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.2085 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -207,9 +227,9 @@ Co-authored-by: Timothée Mazzucotelli &lt;pawamoy@pm.me&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.55k out of 398m repositories</span>
+                                    <span class="gh">ranked 6.52k out of 399m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 5393 stars</div>
+                                <div class="text">Maintaining a repository with 5414 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -247,7 +267,7 @@ Co-authored-by: Timothée Mazzucotelli &lt;pawamoy@pm.me&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 746k out of 114m users</span>
+                                    <span class="gh">ranked 747k out of 114m users</span>
                                 </div>
                                 <div class="text">Published 43 public repositories</div>
                             </div>
@@ -262,7 +282,7 @@ Co-authored-by: Timothée Mazzucotelli &lt;pawamoy@pm.me&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.533333333333335 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="17.566666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -281,7 +301,7 @@ Co-authored-by: Timothée Mazzucotelli &lt;pawamoy@pm.me&gt;</div>
                                     <span class="prefix">Great</span>
                                     stargazer
                                 </div>
-                                <div class="text">Starred 232 repositories</div>
+                                <div class="text">Starred 234 repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -294,7 +314,7 @@ Co-authored-by: Timothée Mazzucotelli &lt;pawamoy@pm.me&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.6071184120465336 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.8193018480492693 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -438,7 +458,7 @@ Co-authored-by: Timothée Mazzucotelli &lt;pawamoy@pm.me&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.40703517587939 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.52261306532664 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -460,7 +480,7 @@ Co-authored-by: Timothée Mazzucotelli &lt;pawamoy@pm.me&gt;</div>
                                     <span class="prefix"></span>
                                     Deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 67 times</div>
+                                <div class="text">Repositories have been deployed 71 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -661,7 +681,7 @@ Co-authored-by: Timothée Mazzucotelli &lt;pawamoy@pm.me&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.74m out of 398m repositories</span>
+                                    <span class="gh">ranked 4.72m out of 399m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
