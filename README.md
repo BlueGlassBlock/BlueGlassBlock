@@ -22,13 +22,3 @@ Former projects at:
 
 - [`GraiaProject`](https://github.com/GraiaProject)
 - [`GraiaCommunity`](https://github.com/GraiaCommunity)
-
-<p align="center">
-  <a href="https://github.com/BlueGlassBlock">
-    <img width="400" align="top" src="https://github.com/BlueGlassBlock/BlueGlassBlock/blob/master/metrics.left.svg" />
-  </a>
-  &emsp;
-  <a href="https://github.com/BlueGlassBlock">
-    <img width="400" align="top" src="https://github.com/BlueGlassBlock/BlueGlassBlock/blob/master/metrics.right.svg" />
-  </a>
-</p>
