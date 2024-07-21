@@ -1,0 +1,83 @@
+// Modified from VitePress code-group.scss
+.content-group {
+  margin-top: 16px;
+}
+
+.content-group .tabs {
+  position: relative;
+  display: flex;
+  margin-right: -24px;
+  margin-left: -24px;
+  padding: 0 12px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  box-shadow: inset 0 -1px var(--va-code-tab-divider);
+}
+
+@media (width >= 640px) {
+  .content-group .tabs {
+    margin-right: 0;
+    margin-left: 0;
+    border-radius: 8px 8px 0 0;
+  }
+}
+
+.content-group .tabs input {
+  position: fixed;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.content-group .tabs label {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px solid transparent;
+  padding: 0 12px;
+  line-height: 48px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--va-code-tab-text-color);
+  white-space: nowrap;
+  cursor: pointer;
+  transition: color 0.25s;
+}
+
+.content-group .tabs label::after {
+  position: absolute;
+  right: 8px;
+  bottom: -1px;
+  left: 8px;
+  z-index: 1;
+  height: 2px;
+  border-radius: 2px;
+  content: '';
+  background-color: transparent;
+  transition: background-color 0.25s;
+}
+
+.content-group label:hover {
+  color: var(--va-code-tab-hover-text-color);
+}
+
+.content-group input:checked + label {
+  color: var(--va-code-tab-active-text-color);
+}
+
+.content-group input:checked + label::after {
+  background-color: var(--va-code-tab-active-bar-color);
+}
+
+.content-tab {
+  display: none;
+  margin-top: 0 !important;
+  border-top-left-radius: 0 !important;
+  border-top-right-radius: 0 !important;
+}
+
+.content-tab.active {
+  display: block;
+}
+
+.content-tab {
+  padding: 20px 24px;
+}
