@@ -52,7 +52,7 @@ export default defineValaxyConfig<UserThemeConfig>({
         api: 'https://blog.blueg.top/api/bangumi',
         bgmEnabled: true,
         bilibiliEnabled: false,
-        bgmUid: '896850'
+        bgmUid: 'blueglassblock'
       }
     )
   ],
