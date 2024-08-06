@@ -16,14 +16,14 @@
     "linkify-it": "^5.0.0",
     "valaxy": "0.19.7",
     "valaxy-addon-bangumi": "^0.2.0",
-    "valaxy-addon-live2d": "^0.2.1",
+    "valaxy-addon-live2d": "^0.2.2",
     "valaxy-addon-waline": "^0.2.0",
     "valaxy-theme-yun": "0.19.7"
   },
   "devDependencies": {
-    "@iconify-json/mdi": "^1.1.67",
+    "@iconify-json/mdi": "^1.1.68",
     "@types/markdown-it-container": "^2.0.10",
-    "typescript": "^5.5.3"
+    "typescript": "^5.5.4"
   },
   "packageManager": "pnpm@9.6.0"
 }
