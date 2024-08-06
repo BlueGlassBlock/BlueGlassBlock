@@ -14,15 +14,16 @@
   "dependencies": {
     "consola": "^3.2.3",
     "linkify-it": "^5.0.0",
-    "valaxy": "0.19.2",
+    "valaxy": "0.19.7",
     "valaxy-addon-bangumi": "^0.2.0",
-    "valaxy-addon-container-ex": "link:packages/valaxy-addon-container-ex",
-    "valaxy-theme-yun": "0.19.2"
+    "valaxy-addon-live2d": "^0.2.1",
+    "valaxy-addon-waline": "^0.2.0",
+    "valaxy-theme-yun": "0.19.7"
   },
   "devDependencies": {
     "@iconify-json/mdi": "^1.1.67",
     "@types/markdown-it-container": "^2.0.10",
     "typescript": "^5.5.3"
   },
-  "packageManager": "pnpm@9.5.0"
+  "packageManager": "pnpm@9.6.0"
 }

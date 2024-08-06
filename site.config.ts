@@ -7,7 +7,7 @@ export default defineSiteConfig({
   title: "BlueGlassBlock's Blog",
   subtitle: 'Think and build more.',
   description: 'A blog focusing on code & craft',
-  
+
   author: {
     email: 'self@blueg.top',
     name: 'BlueGlassBlock',
@@ -50,7 +50,9 @@ export default defineSiteConfig({
       color: '#8E71C1',
     },
   ],
-
+  sponsor: {
+    enable: false,
+  },
   search: {
     enable: true,
     type: 'fuse'
