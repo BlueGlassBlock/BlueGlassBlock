@@ -20,11 +20,14 @@ jobs:
           submodules: true
           lfs: false
 
+      - uses: pnpm/action-setup@v4
+        with:
+          run_install: true
+
       - name: Build Blog
         env:
           TZ: Asia/Shanghai
         run: |
-          pnpm install
           pnpm build
 
       - name: Build And Deploy
