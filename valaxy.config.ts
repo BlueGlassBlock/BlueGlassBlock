@@ -49,10 +49,10 @@ export default defineValaxyConfig<UserThemeConfig>({
   addons: [
     addonBangumi(
       {
-        api: 'https://blog.blueg.top/api/bangumi',
+        api: 'https://blog-api.blueg.top/api/bangumi',
         bgmEnabled: true,
         bilibiliEnabled: false,
-        bgmUid: 'blueglassblock'
+        bgmUid: 'BlueGlassBlock'
       }
     )
   ],

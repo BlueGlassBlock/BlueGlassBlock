@@ -1,0 +1,68 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "func",
+      "label": "func: host start",
+      "command": "host start",
+      "problemMatcher": "$func-node-watch",
+      "isBackground": true,
+      "dependsOn": "pnpm watch (functions)",
+      "options": {
+        "cwd": "${workspaceFolder}/api"
+      }
+    },
+    {
+      "type": "shell",
+      "label": "pnpm build (functions)",
+      "command": "pnpm run build",
+      "dependsOn": "pnpm clean (functions)",
+      "problemMatcher": "$tsc",
+      "options": {
+        "cwd": "${workspaceFolder}/api"
+      }
+    },
+    {
+      "type": "shell",
+      "label": "pnpm watch (functions)",
+      "command": "pnpm run watch",
+      "dependsOn": "pnpm clean (functions)",
+      "problemMatcher": "$tsc-watch",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "isBackground": true,
+      "options": {
+        "cwd": "${workspaceFolder}/api"
+      }
+    },
+    {
+      "type": "shell",
+      "label": "pnpm install (functions)",
+      "command": "pnpm install",
+      "options": {
+        "cwd": "${workspaceFolder}/api"
+      }
+    },
+    {
+      "type": "shell",
+      "label": "pnpm prune (functions)",
+      "command": "pnpm prune --production",
+      "dependsOn": "pnpm build (functions)",
+      "problemMatcher": [],
+      "options": {
+        "cwd": "${workspaceFolder}/api"
+      }
+    },
+    {
+      "type": "shell",
+      "label": "pnpm clean (functions)",
+      "command": "pnpm run clean",
+      "dependsOn": "pnpm install (functions)",
+      "options": {
+        "cwd": "${workspaceFolder}/api"
+      }
+    }
+  ]
+}
