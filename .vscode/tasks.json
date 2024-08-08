@@ -7,16 +7,16 @@
       "command": "host start",
       "problemMatcher": "$func-node-watch",
       "isBackground": true,
-      "dependsOn": "pnpm watch (functions)",
+      "dependsOn": "npm watch (functions)",
       "options": {
         "cwd": "${workspaceFolder}/api"
       }
     },
     {
       "type": "shell",
-      "label": "pnpm build (functions)",
-      "command": "pnpm run build",
-      "dependsOn": "pnpm clean (functions)",
+      "label": "npm build (functions)",
+      "command": "npm run build",
+      "dependsOn": "npm clean (functions)",
       "problemMatcher": "$tsc",
       "options": {
         "cwd": "${workspaceFolder}/api"
@@ -24,9 +24,9 @@
     },
     {
       "type": "shell",
-      "label": "pnpm watch (functions)",
-      "command": "pnpm run watch",
-      "dependsOn": "pnpm clean (functions)",
+      "label": "npm watch (functions)",
+      "command": "npm run watch",
+      "dependsOn": "npm clean (functions)",
       "problemMatcher": "$tsc-watch",
       "group": {
         "kind": "build",
@@ -39,17 +39,17 @@
     },
     {
       "type": "shell",
-      "label": "pnpm install (functions)",
-      "command": "pnpm install",
+      "label": "npm install (functions)",
+      "command": "npm install",
       "options": {
         "cwd": "${workspaceFolder}/api"
       }
     },
     {
       "type": "shell",
-      "label": "pnpm prune (functions)",
-      "command": "pnpm prune --production",
-      "dependsOn": "pnpm build (functions)",
+      "label": "npm prune (functions)",
+      "command": "npm prune --production",
+      "dependsOn": "npm build (functions)",
       "problemMatcher": [],
       "options": {
         "cwd": "${workspaceFolder}/api"
@@ -57,9 +57,9 @@
     },
     {
       "type": "shell",
-      "label": "pnpm clean (functions)",
-      "command": "pnpm run clean",
-      "dependsOn": "pnpm install (functions)",
+      "label": "npm clean (functions)",
+      "command": "npm run clean",
+      "dependsOn": "npm install (functions)",
       "options": {
         "cwd": "${workspaceFolder}/api"
       }

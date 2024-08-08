@@ -37,11 +37,11 @@ jobs:
       - name: Build Functions
         run: |
           pushd './${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}'
-          pnpm install
-          pnpm run build
+          npm install
+          npm run build
           popd
 
-      - name: "Run Azure Functions Action"
+      - name: Deploy Azure Functions
         uses: Azure/functions-action@v1
         id: deploy-functions
         with:

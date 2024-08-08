@@ -18,10 +18,10 @@
   },
   "svg.preview.background": "editor",
   "azureFunctions.deploySubpath": "api",
-  "azureFunctions.postDeployTask": "pnpm install (functions)",
+  "azureFunctions.postDeployTask": "npm install (functions)",
   "azureFunctions.projectLanguage": "TypeScript",
   "azureFunctions.projectRuntime": "~4",
   "debug.internalConsoleOptions": "neverOpen",
   "azureFunctions.projectLanguageModel": 4,
-  "azureFunctions.preDeployTask": "pnpm prune (functions)"
+  "azureFunctions.preDeployTask": "npm prune (functions)"
 }
