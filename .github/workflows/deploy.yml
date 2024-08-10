@@ -1,4 +1,4 @@
-name: Deploy to Azure
+name: Deploy Blog
 
 on:
   push:
@@ -33,21 +33,6 @@ jobs:
         run: |
           pnpm install
           pnpm build
-
-      - name: Build Functions
-        run: |
-          pushd './${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}'
-          pnpm install
-          pnpm run build
-          popd
-
-      - name: Deploy Azure Functions
-        uses: Azure/functions-action@v1
-        id: deploy-functions
-        with:
-          app-name: ${{ env.AZURE_FUNCTIONAPP_NAME }}
-          package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
 
       - name: Deploy Static Web App
         id: deploy-static

@@ -16,8 +16,7 @@
     "linkify-it": "^5.0.0",
     "valaxy": "0.19.7",
     "valaxy-addon-bangumi": "^0.2.0",
-    "valaxy-addon-live2d": "^0.2.2",
-    "valaxy-addon-waline": "^0.2.0",
+    "valaxy-addon-twikoo": "^0.0.3",
     "valaxy-theme-yun": "0.19.7"
   },
   "devDependencies": {

@@ -54,6 +54,7 @@ export default defineValaxyConfig<UserThemeConfig>({
         bilibiliEnabled: false,
         bgmUid: 'BlueGlassBlock'
       }
-    )
+    ),
+    addonTwikoo()
   ],
 })
