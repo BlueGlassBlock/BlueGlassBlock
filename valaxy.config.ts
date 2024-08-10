@@ -1,6 +1,7 @@
 import { defineValaxyConfig } from 'valaxy'
 import type { UserThemeConfig } from 'valaxy-theme-yun'
 import { addonBangumi } from 'valaxy-addon-bangumi'
+import { addonTwikoo } from 'valaxy-addon-twikoo'
 import { contentGroupPlugin } from './extensions/markdown/contentGroup'
 import { prettyLinkPlugin } from './extensions/markdown/prettyLink'
 import consola from 'consola'
@@ -28,7 +29,7 @@ export default defineValaxyConfig<UserThemeConfig>({
         enable: false
       }
     },
-
+    
     menu: {
       custom: {
         title: 'menu.links',
@@ -55,6 +56,8 @@ export default defineValaxyConfig<UserThemeConfig>({
         bgmUid: 'BlueGlassBlock'
       }
     ),
-    addonTwikoo()
+    addonTwikoo({
+      envId: 'https://blog-api.blueg.top/api/twikoo'
+    })
   ],
 })

@@ -3,4 +3,4 @@
 - [x] Content Tabs
 - [ ] Markdown "demo" block
 - [ ] mkdocs-material like container
-- [ ] Setup comments
+- [x] Setup comments

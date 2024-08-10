@@ -60,5 +60,8 @@ export default defineSiteConfig({
   license: {
     enabled: true,
     type: 'by-nc-sa'
+  },
+  comment: {
+    enable: true,
   }
 })
