@@ -207,4 +207,7 @@ uv run esptool --port COM9 read_flash 0x00000 0x400000 flash_dump.bin
 
 ## 完赛的一点感想
 
-作为大一小登拿到校内 #2 也是可喜可贺了，虽然没能 AK 还是留下了一点遗憾，也许研究 https://pysdr.org/content/intro.html 会有所帮助吧。
+作为大一小登拿到校内 #2 也是可喜可贺了，虽然没能 AK 还是留下了一点遗憾，
+信号题也许研究 https://pysdr.org/content/intro.html 会有所帮助吧。
+
+以及场上出题人的良心提示给的真的很多。

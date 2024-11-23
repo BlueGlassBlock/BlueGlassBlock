@@ -4,6 +4,8 @@ import YunFooter from 'valaxy-theme-yun/components/YunFooter.vue'
 
 <template>
   <YunFooter>
-    <a href="https://icp.gov.moe/?keyword=20248596" target="_blank">萌ICP备20248596号</a>
+    <span>
+      <a href="https://icp.gov.moe/?keyword=20248596" target="_blank">萌ICP备20248596号</a>
+    </span>
   </YunFooter>
 </template>
