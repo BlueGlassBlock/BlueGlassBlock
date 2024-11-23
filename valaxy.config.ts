@@ -4,6 +4,7 @@ import { addonBangumi } from 'valaxy-addon-bangumi'
 import { addonTwikoo } from 'valaxy-addon-twikoo'
 import { contentGroupPlugin } from './extensions/markdown/contentGroup'
 import { prettyLinkPlugin } from './extensions/markdown/prettyLink'
+import { easyAssetsPlugin } from './extensions/markdown/easyAssets'
 import consola from 'consola'
 
 /**
@@ -44,6 +45,7 @@ export default defineValaxyConfig<UserThemeConfig>({
       consola.success('Markdown is properly configured')
       md.use(contentGroupPlugin, false)
       md.use(prettyLinkPlugin)
+      md.use(easyAssetsPlugin)
     },
   },
 

@@ -14,10 +14,10 @@
   "dependencies": {
     "consola": "^3.2.3",
     "linkify-it": "^5.0.0",
-    "valaxy": "0.19.7",
+    "valaxy": "0.20.4",
     "valaxy-addon-bangumi": "^0.2.0",
     "valaxy-addon-twikoo": "^0.0.3",
-    "valaxy-theme-yun": "0.19.7"
+    "valaxy-theme-yun": "0.20.4"
   },
   "devDependencies": {
     "@iconify-json/mdi": "^1.1.68",
