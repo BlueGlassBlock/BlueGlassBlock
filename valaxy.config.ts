@@ -5,6 +5,7 @@ import { addonTwikoo } from 'valaxy-addon-twikoo'
 import { contentGroupPlugin } from './extensions/markdown/contentGroup'
 import { prettyLinkPlugin } from './extensions/markdown/prettyLink'
 import { easyAssetsPlugin } from './extensions/markdown/easyAssets'
+import { wikiLinkPlugin } from './extensions/markdown/wikiLink'
 
 /**
  * User Config
@@ -44,6 +45,7 @@ export default defineValaxyConfig<UserThemeConfig>({
       md.use(contentGroupPlugin, false)
       md.use(prettyLinkPlugin)
       md.use(easyAssetsPlugin)
+      md.use(wikiLinkPlugin)
     },
   },
 

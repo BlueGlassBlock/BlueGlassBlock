@@ -1,0 +1,47 @@
+// https://github.com/jackyzha0/quartz/blob/e1d754ef79e8c04d6fe0f9031ce74baf48d3bb10/quartz/components/styles/popover.scss#L22
+
+.v-popper--theme-wiki-link {
+  .v-popper__inner {
+    width: 30rem;
+    max-height: 20rem;
+    padding: 0 0.5rem 0.5rem 0.5rem;
+    font-weight: initial;
+    font-style: initial;
+    line-height: normal;
+    font-size: initial;
+    border: 1px solid var(--va-c-bg-soft);
+    background: var(--va-c-bg);
+    border-radius: 5px;
+    box-shadow: 6px 6px 36px 0 rgba(0, 0, 0, 0.25);
+    overflow: auto;
+    white-space: normal;
+  }
+
+  .v-popper__arrow-container {
+    display: none;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  h3 {
+    font-size: 1.4rem;
+  }
+
+  h4 {
+    font-size: 1.3rem;
+  }
+
+  h5 {
+    font-size: 1.2rem;
+  }
+
+  h6 {
+    font-size: 1.1rem;
+  }
+}

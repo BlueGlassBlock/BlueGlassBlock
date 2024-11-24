@@ -3,3 +3,7 @@ sidebar:
 
 menu:
   links: 友情链接
+
+wiki-link:
+  loading: 加载中...
+  error: 加载失败

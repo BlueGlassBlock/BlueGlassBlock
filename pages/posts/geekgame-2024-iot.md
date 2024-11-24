@@ -14,6 +14,8 @@ tags:
 
 <!-- more -->
 
+[前情提要](./geekgame-2024.md)
+
 ## Hi3861
 
 ### Flag 1 - 签到

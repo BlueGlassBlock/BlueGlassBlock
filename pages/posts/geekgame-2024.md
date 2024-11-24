@@ -888,3 +888,15 @@ window.addEventListener("sendDataToContentScript", function(e) {
 ```
 
 做这道题的时候 Edge 的自带视觉搜索和扩展的识别图标比翼齐飞，令人忍俊不禁。
+
+
+## 后续
+
+听好了：11月17日，GeekGame 就此陷落。每个优秀选手都将迎来一场漩涡，为他们带来全新的 THUCTF IoT 难度。
+
+你所熟知的一切都将改变，你所熟悉的网络安全知识都将加诸 IoT 的历练。
+
+至此，一锤定音。
+尘埃，已然落定。
+
+> [GeekGame IoT 2024](./geekgame-2024-iot.md)

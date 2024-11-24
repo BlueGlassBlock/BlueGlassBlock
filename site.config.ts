@@ -1,5 +1,10 @@
 import { defineSiteConfig } from 'valaxy'
+import { options as floatingVueConfig } from 'floating-vue'
 
+floatingVueConfig.themes['wiki-link'] = {
+  $extend: 'menu',
+  $resetCss: true,
+}
 
 export default defineSiteConfig({
   url: 'https://blog.blueg.top/',
@@ -63,5 +68,6 @@ export default defineSiteConfig({
   },
   comment: {
     enable: true,
-  }
+  },
+  floatingVue: floatingVueConfig
 })

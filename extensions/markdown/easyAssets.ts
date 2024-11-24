@@ -1,14 +1,15 @@
 import MarkdownIt from 'markdown-it'
 
 export function easyAssetsPlugin(md: MarkdownIt) {
-  const defaultImageRender = md.renderer.rules.image || function (tokens, idx, options, env, self) {
+  const polyfill: MarkdownIt.Renderer.RenderRule = (tokens, idx, options, env, self) => {
     return self.renderToken(tokens, idx, options)
   }
 
   // replace $assets in relative links with article-name.assets/
-  md.renderer.rules.image = function (tokens, idx, options, env, self) {
+  function createReplacer(attr: string, defaultFn: MarkdownIt.Renderer.RenderRule): MarkdownIt.Renderer.RenderRule {
+    return (tokens, idx, options, env, self) => {
     const token = tokens[idx]
-    const srcIndex = token.attrIndex('src')
+    const srcIndex = token.attrIndex(attr)
     const filePath: string = env.id
     const articleName = filePath.split('/').pop()!.replace(/.md$/, '')
     if (srcIndex >= 0) {
@@ -16,6 +17,10 @@ export function easyAssetsPlugin(md: MarkdownIt) {
       src = src.replace('$assets/', `${articleName}.assets/`)
       token.attrs![srcIndex][1] = src
     }
-    return defaultImageRender(tokens, idx, options, env, self)
+    return defaultFn(tokens, idx, options, env, self)
+    }
   }
+
+  md.renderer.rules.image = createReplacer('src', md.renderer.rules.image || polyfill)
+  md.renderer.rules.link_open = createReplacer('href', md.renderer.rules.link_open || polyfill)
 }

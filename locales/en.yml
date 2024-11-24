@@ -3,3 +3,7 @@ sidebar:
 
 menu:
   links: Links
+
+wiki-link:
+  loading: Loading...
+  error: Error loading content
