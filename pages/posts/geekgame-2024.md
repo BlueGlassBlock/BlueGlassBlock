@@ -174,7 +174,7 @@ Undock DevTools 的话可以在一瞬间断点，然后就有机会慢慢 step �
 
 好吧，看起来它用了很多 `<span class="chunk">` 来组成验证码，虽然 `<input>` 附近的 ts 提示我们已经浪费了一次机会，但了解了网页结构，就能写 JS 去操纵它了...?
 
-[captcha-expert-001.jpg](assets/captcha-expert-001.png)
+![captcha-expert-001.jpg](geekgame-2024.assets/captcha-expert-001.png)
 
 
 嗯... Shadow Root 是个啥？一番搜寻后找到了[这篇博客](https://blog.ankursundara.com/shadow-dom/)，但似乎对我来说没啥用...? 不过我们不是还有 Playwright 嘛，用 Playwright patch 一下：

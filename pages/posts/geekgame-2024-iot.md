@@ -22,7 +22,7 @@ tags:
 
 装完驱动后用 CoolTerm 直接连接即可看到 flag。
 
-![hi-flag1](./$assets/hi-flag1.png)
+![hi-flag1](./geekgame-2024-iot.assets/hi-flag1.png)
 
 
 ### Flag 2 - LED 灯与提示
@@ -120,13 +120,13 @@ print("".join(morse_lookup.get(c, c) for c in splitted.split()))
 
 首先 ADC 引脚不是板子上标了 ADC 的那个针脚（捂脸），参考 `bearpi_hm_nano/doc/figures/B4_basic_adc` 中的图才发现是 GPIO 11 与 12，用杜邦线和 GND 相连就可以把电压清零（虽然似乎这样不好...），值得注意的是要等进入闪灯例程之后再连接，不然进 NFC 例程就坏事了。
 
-![hi-flag4](./$assets/hi-flag4.png)
+![hi-flag4](./geekgame-2024-iot.assets/hi-flag4.png)
 
 ### Flag 3 - 跳线帽
 
 把板子上的跳线帽换到 GPIO 11 与 GND 的位置再重置板子就可以了。
 
-![hi-flag-3-5](./$assets/hi-flag-3-5.png)
+![hi-flag-3-5](./geekgame-2024-iot.assets/hi-flag-3-5.png)
 
 ### Flag 5 - Web 题（示）
 
@@ -148,13 +148,13 @@ print("".join(morse_lookup.get(c, c) for c in splitted.split()))
 
 从源码里看出 ESP32 的 TX 被设置成了 GPIO 4，但是我用赛方给的 CH340 死活接不到信号，于是放弃了，用逻辑分析器来分析。
 
-![esp32-serial-2](./$assets/esp32-serial-2.png)
+![esp32-serial-2](./geekgame-2024-iot.assets/esp32-serial-2.png)
 
 ### 蓝牙 Flag 1 - Don't u guys have a phone?
 
 Windows 机器要改蓝牙名称属实有点麻烦，用手机代劳后即可看到 flag。
 
-![esp32-bt-1](./$assets/esp32-bt-1.png)
+![esp32-bt-1](./geekgame-2024-iot.assets/esp32-bt-1.png)
 
 ### 蓝牙 Flag 2 - Don't u guys have a phone? v2
 
@@ -188,14 +188,14 @@ async def main():
 asyncio.run(main())
 ```
 
-![esp32-bt-3](./$assets/esp32-bt-3.png)
+![esp32-bt-3](./geekgame-2024-iot.assets/esp32-bt-3.png)
 
 ### 固件 Flag - 从吹芯片分析固件到 esptool
 
 在源码中可以看到固件中往 `FreeRTOS` 的 `xCreateTask` 中传入了一个 flag，但是在程序层面我们是拿不到这个的，于是需要从固件中提取。
 我们用上一点搜索技巧：
 
-![esp32-firmware-search](./$assets/esp32-firmware-search.png)
+![esp32-firmware-search](./geekgame-2024-iot.assets/esp32-firmware-search.png)
 
 再学一下怎么让 ESP32 进入下载模式（按住 BOOT 按键再按一下 RST 按键），然后用 `esptool.py` 就可以轻松提取固件了。
 
@@ -205,7 +205,7 @@ uv run esptool --port COM9 read_flash 0x00000 0x400000 flash_dump.bin
 
 等它读完后，直接用 VS Code 里的 Hex Editor 插件打开就能搜索到 flag 了。
 
-![esp32-firmware-dump](./$assets/esp32-firmware-dump.png)
+![esp32-firmware-dump](./geekgame-2024-iot.assets/esp32-firmware-dump.png)
 
 ## 完赛的一点感想
 
