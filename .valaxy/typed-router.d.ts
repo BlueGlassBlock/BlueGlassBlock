@@ -31,6 +31,7 @@ declare module 'vue-router/auto-routes' {
     '/posts/geekgame-2024-iot': RouteRecordInfo<'/posts/geekgame-2024-iot', '/posts/geekgame-2024-iot', Record<never, never>, Record<never, never>>,
     '/posts/valaxy-1st-issue': RouteRecordInfo<'/posts/valaxy-1st-issue', '/posts/valaxy-1st-issue', Record<never, never>, Record<never, never>>,
     '/posts/valaxy-md-tweak': RouteRecordInfo<'/posts/valaxy-md-tweak', '/posts/valaxy-md-tweak', Record<never, never>, Record<never, never>>,
+    '/posts/valaxy-plus-obsidian': RouteRecordInfo<'/posts/valaxy-plus-obsidian', '/posts/valaxy-plus-obsidian', Record<never, never>, Record<never, never>>,
     '/posts/valaxy-time-metadata': RouteRecordInfo<'/posts/valaxy-time-metadata', '/posts/valaxy-time-metadata', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
