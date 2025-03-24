@@ -11,13 +11,16 @@
 
 Hello! :wave: I'm BlueGlassBlock.
 
-I use [`Python`](https://github.com/python/cpython) as main coding language, [`Rust`](https://github.com/rust-lang/rust) as side language, and I hope to learn more in the future :)
+Coding languages:
+- Rust
+- Python
+- C/C++
 
 Preferred Tools:
 - VS Code
 - WSL
 - Nushell
-- PDM
+- ~~PDM~~UV
 - Yarn
 
 [My blog](https://blog.blueg.top), powered by [Valaxy](https://valaxy.site), is also hosted in this repository.
